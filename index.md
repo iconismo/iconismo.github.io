@@ -5,7 +5,7 @@
 ### Data Cleaning Project
 
 [Определение основных принципов анализа и типологизации финансовых моделей деятельности ВУЗов](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 
 <!--- --- --->
 <!---[Project 2 Title](/pdf/sample_presentation.pdf) --->
