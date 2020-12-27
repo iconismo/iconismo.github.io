@@ -2,22 +2,30 @@
 
 ---
 
-### Сбор и очистка данных
+### Data Cleaning Project
 
 [Определение основных принципов анализа и типологизации финансовых моделей деятельности ВУЗов](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!--- ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!---[Project 2 Title](/pdf/sample_presentation.pdf)
+<!--- <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!--- ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!--- [Project 3 Title](http://example.com/)
+<!--- <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-<!---### Category Name 2
+### Statistical Project
+
+### Explanatory Post
+
+### Machine learning Project
+
+### Data Storytelling Project
+
+
 
 <!--- - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
