@@ -19,11 +19,19 @@
 
 ### Statistical Project
 
+---
+
 ### Explanatory Post
+
+---
 
 ### Machine learning Project
 
+---
+
 ### Data Storytelling Project
+
+---
 
 
 
