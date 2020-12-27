@@ -17,19 +17,15 @@
 
 ---
 
-### Statistical Project
+### Explanatory Posts
 
 ---
 
-### Explanatory Post
+### Проекты с использованием методов машинного обучения
 
 ---
 
-### Machine learning Project
-
----
-
-### Data Storytelling Project
+### Data Storytelling Projects
 
 ---
 
