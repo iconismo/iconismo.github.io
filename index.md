@@ -19,7 +19,7 @@
 6. Кластерный анализ
 7. Интерпретация результатов
 
-[Перейти на страницу проекта](https://github.com/iconismo/data-contest-2020)
+[Перейти на страницу проекта на github](https://github.com/iconismo/data-contest-2020)
 <!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
 
 ---
