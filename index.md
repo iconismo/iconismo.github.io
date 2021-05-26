@@ -9,7 +9,7 @@
 <img src="images/boxplot_kredit.png?raw=true"/>
 
 - [Перейти на страницу проекта на github](https://github.com/iconismo/data-contest-2020)
-- [Посмотреть pdf-очет по проекту](https://github.com/iconismo/data-contest-2020-accounts-chamber-rf/blob/main/reports/data_contest_2020_report.pdf)
+- [Посмотреть pdf-отчет по проекту](https://github.com/iconismo/data-contest-2020-accounts-chamber-rf/blob/main/reports/data_contest_2020_report.pdf)
 
 ---
 
