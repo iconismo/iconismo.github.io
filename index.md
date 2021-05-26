@@ -9,6 +9,7 @@
 
 - [Перейти на страницу проекта на github](https://github.com/iconismo/data-contest-2020)
 - [Посмотреть pdf-отчет по проекту](https://github.com/iconismo/data-contest-2020-accounts-chamber-rf/blob/main/reports/data_contest_2020_report.pdf)
+- [Посмотреть сертификат участника конкурса DataContest 2020](https://github.com/iconismo/data-contest-2020-accounts-chamber-rf/blob/main/reports/participants-certificate.png)
 
 ---
 
