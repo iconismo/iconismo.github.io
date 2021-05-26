@@ -20,7 +20,7 @@
 7. Интерпретация результатов
 
 [Перейти на страницу проекта на github](https://github.com/iconismo/data-contest-2020)
-<!---<img src="images/dummy_thumbnail.jpg?raw=true"/> --->
+<img src="images/vuz-types-correlogram.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
